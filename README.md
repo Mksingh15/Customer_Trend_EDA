@@ -1,20 +1,47 @@
-# Customer_shopping_trend_EDA
-Objective: Gaining valuable insights about the preference of people while shopping based upon some historical data that will be helpful for strategic planning of business of mall to increase the profit.
+📊 Customer Shopping Trend – EDA Project
+This project involves performing Exploratory Data Analysis (EDA) on a dataset of customer shopping behaviors to uncover insights and trends that can help businesses improve their customer experience and marketing strategies.
 
-#Libraries Used:
-Plotly,
-Matplotlib,
-Seaborn,
-Pandas
 
-#Plots Used:
-Pie Chart,
-Bar Plot,
-Histogram,
-Boxplot,
-Sunburst Plot,
+📁 Dataset Overview
 
-#Methodology:
-Loading the dataset,
-Data Cleaning,
-EDA (Exploratory Data Analysis)
+The dataset includes customer data such as:
+
+1)Gender
+
+2)Age
+
+3)Shopping categories
+
+4)Purchase behavior
+
+5)Time of shopping
+
+6)Source: Kaggle
+
+
+
+
+🧠 Objective
+
+The main goal is to:
+
+1)Identify trends in customer shopping habits
+
+2)Visualize relationships between variables
+
+3)Find useful patterns for business decision-making
+
+
+
+
+Technologies Used
+
+🐍 Python
+
+📊 Pandas, NumPy
+
+📉 Matplotlib, Seaborn
+
+📋 Jupyter Notebook
+
+
